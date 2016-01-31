@@ -7,9 +7,9 @@ markdown: 			 redcarpet
 #relative_permalinks: true
 
 # Setup
-title:               R-338 (Renk) Takım Proje Sayfası
+title:               R-338 m&mEgitimArastirmaTakimi
 tagline:             'Akademik Bilişim 2016'
-description:         'Kısa proje tanımını buraya girin'
+description:         'Tüik Verileri ile Veri Analizi'
 url:                 http://r338.github.io/ab-2016
 baseurl:             '/tuikEgitim'
 paginate:            5
