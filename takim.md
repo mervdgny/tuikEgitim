@@ -3,7 +3,7 @@ layout: page
 title: Proje Ekibi
 ---
 
-(soyadı sırasına göre)
+
 
 ##Merve DOĞANAY
 
