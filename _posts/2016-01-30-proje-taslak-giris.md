@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Proje Sayfası Oluşturmaya Giriş
+title: Proje Sayfası
 date: 2016-01-30 12:00:00 +02:00
 ---
 
-Bu sayfalarda projenin ilerleme durumlarını anlatacaksınız. Ufak kod parçaları ile projenizi anlatabilirsiniz. Örneğin;
+Aşağıdaki kodlar yardımı ile proje ilerleme durumunu görebilirsiniz.
 
 ```{r}
 print("R ile Veri Analizi Proje Sayfası")
