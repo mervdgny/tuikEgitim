@@ -30,7 +30,7 @@ plot5<-ggplot(data=df %>% filter(oobd_ogrenci_sayisi>=15)) + geom_point(aes(x=oo
 ggplot(data=df,aes(x=ogretim_yili,y=oobd_ogrenci_sayisi)) + geom_bar(stat="identity",aes(fill=tur))
 
 
-#kodunu kullanarak bütün öğretim yıllarını (1997-2012 yılları arasında) baz alarak ilköğretim ve ortaöğretimde bulunan ortalama okul sayısını vermektedir. Bu kodu öğretmen ve öğrenci sayısı için de küçük bir değişiklikle uygulayabilliriz.
+#plot kodunu kullanarak bütün öğretim yıllarını (1997-2012 yılları arasında) baz alarak ilköğretim ve ortaöğretimde bulunan ortalama okul sayısını vermektedir. Bu kodu öğretmen ve öğrenci sayısı için de küçük bir değişiklikle uygulayabilliriz.
 ozet1<-df %>% 
   group_by(tur) %>% 
   summarise(okul_sayisi=mean(okul_sayisi))
