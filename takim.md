@@ -3,26 +3,11 @@ layout: page
 title: Proje Ekibi
 ---
 
-(soyadı sırasına göre)
 
-##Ekip Üyesi 1
 
-Ekip üyesi hakkında kısa bilgi.
+##Merve DOĞANAY
 
-<p>
-<a href="" target="_blank"><i class="fa fa-github fa-2x"></i></a>
-<a href="" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
-<!-- 
-<a href="" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
--->
-<a href="" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
-<a href="" target="_blank"><i class="fa fa-globe fa-2x"></i></a>
-<a href="" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
-</p>
-
-##Ekip Üyesi 2
-
-Ekip üyesi hakkında kısa bilgi.
+Merve Doğanay İstanbul Şehir Üniversitesi Endüstri Mühendisliği Bölümü 4.sınıf öğrencisidir.
 
 <p>
 <a href="" target="_blank"><i class="fa fa-github fa-2x"></i></a>
@@ -35,24 +20,9 @@ Ekip üyesi hakkında kısa bilgi.
 <a href="" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
 </p>
 
-##Ekip Üyesi 3
+##Murat Rahmi KURTUL
 
-Ekip üyesi hakkında kısa bilgi.
-
-<p>
-<a href="" target="_blank"><i class="fa fa-github fa-2x"></i></a>
-<a href="" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
-<!-- 
-<a href="" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
--->
-<a href="" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
-<a href="" target="_blank"><i class="fa fa-globe fa-2x"></i></a>
-<a href="" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
-</p>
-
-##Ekip Üyesi 4
-
-Ekip üyesi hakkında kısa bilgi.
+Murat Rahmi KURTUL Pamukkale Üniversitesi Bilgisayar Mühendisliği Bölümü 4.sınıf öğrencisidir.
 
 <p>
 <a href="" target="_blank"><i class="fa fa-github fa-2x"></i></a>
@@ -64,4 +34,7 @@ Ekip üyesi hakkında kısa bilgi.
 <a href="" target="_blank"><i class="fa fa-globe fa-2x"></i></a>
 <a href="" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
 </p>
+
+
+
 
